@@ -145,12 +145,11 @@ CO2-Monitoring-System/
 ```
 
 ## Installation Guide
+If you want code, please get in touch with me
 
 ### Backend Setup
 
 ```bash
-git clone https://github.com/yourusername/co2-monitoring-system.git
-
 cd backend
 
 mvn clean install
@@ -194,14 +193,9 @@ Main Tables:
 * Roles
 * Devices
 * CO2_Measurements
+  
+![](images/DatabaseDesign.jpg)
 
-Each measurement contains:
-
-* Device ID
-* CO₂ Value (PPM)
-* Latitude
-* Longitude
-* Timestamp
 
 ## Testing
 
@@ -261,6 +255,13 @@ This research demonstrates how IoT technologies can be applied to improve indoor
 ![](images/Picture6.png)
 #### Live Map Tracking
 ![](images/Picture7.png)
+
+## Diagrams
+
+#### Circuit Diagram 
+![](images/Picture8.png)
+
+
 ## Authors
 
 **Sumedha Eranda**
