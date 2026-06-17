@@ -250,9 +250,9 @@ This research demonstrates how IoT technologies can be applied to improve indoor
 ![Login](images/Picture1.png)
 
 #### Dashboard
-
+![Dashboard](images/Picture2.png)
 #### Historical CO₂ Trends
-
+![CO₂ Trends](images/Picture3.png)
 ### Admin Dashboard
 
 #### System Overview
