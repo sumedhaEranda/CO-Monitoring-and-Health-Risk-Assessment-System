@@ -254,13 +254,13 @@ This research demonstrates how IoT technologies can be applied to improve indoor
 #### Historical CO₂ Trends
 ![CO₂ Trends](images/Picture3.png)
 ### Admin Dashboard
-
+![](images/Picture4.png)
 #### System Overview
-
+![](images/Picture5.png)
 #### Device Monitoring
-
+![](images/Picture6.png)
 #### Live Map Tracking
-
+![](images/Picture7.png)
 ## Authors
 
 **Sumedha Eranda**
