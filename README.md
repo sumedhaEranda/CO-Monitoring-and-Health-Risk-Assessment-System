@@ -149,6 +149,7 @@ If you want code, please get in touch with me
 
 ### Backend Setup
 
+```bash
 cd backend
 
 mvn clean install
@@ -192,14 +193,9 @@ Main Tables:
 * Roles
 * Devices
 * CO2_Measurements
+  
+![](images/DatabaseDesign.jpg)
 
-Each measurement contains:
-
-* Device ID
-* CO₂ Value (PPM)
-* Latitude
-* Longitude
-* Timestamp
 
 ## Testing
 
