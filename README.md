@@ -185,6 +185,9 @@ flutter run
 4. Upload the Arduino sketch.
 5. Configure Wi-Fi credentials and API endpoint.
 
+### System Design
+![](images/SystemDesign.jpg)
+
 ## Database Schema
 
 Main Tables:
