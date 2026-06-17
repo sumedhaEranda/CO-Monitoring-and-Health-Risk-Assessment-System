@@ -188,6 +188,10 @@ flutter run
 ### System Design
 ![](images/SystemDesign.jpg)
 
+
+### Data Flow
+![Demo](images/DataFlow.gif)
+
 ## Database Schema
 
 Main Tables:
