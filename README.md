@@ -145,11 +145,9 @@ CO2-Monitoring-System/
 ```
 
 ## Installation Guide
+If you want code, please get in touch with me
 
 ### Backend Setup
-
-```bash
-git clone https://github.com/yourusername/co2-monitoring-system.git
 
 cd backend
 
@@ -261,6 +259,13 @@ This research demonstrates how IoT technologies can be applied to improve indoor
 ![](images/Picture6.png)
 #### Live Map Tracking
 ![](images/Picture7.png)
+
+## Diagrams
+
+#### Circuit Diagram 
+![](images/Picture8.png)
+
+
 ## Authors
 
 **Sumedha Eranda**
