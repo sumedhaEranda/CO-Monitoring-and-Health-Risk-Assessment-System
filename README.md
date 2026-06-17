@@ -247,7 +247,7 @@ This research demonstrates how IoT technologies can be applied to improve indoor
 ### Mobile Application
 
 #### Login Screen
-images/Picture1.png
+![Login](images/Picture1.png)
 
 #### Dashboard
 
