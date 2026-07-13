@@ -1,4 +1,4 @@
-# CO₂ Monitoring and Health Risk Assessment System
+# Final Year Research - CO₂ Monitoring and Health Risk Assessment System
 
 ## Overview
 
@@ -145,7 +145,10 @@ CO2-Monitoring-System/
 ```
 
 ## Installation Guide
-If you want code, please get in touch with me
+
+This project is a final research project, and the source code is not publicly available at this time.
+
+For research collaboration, demonstration, or further information, please contact me.
 
 ### Backend Setup
 
